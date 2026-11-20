@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "embedded-project",
+      "type": "spec",
+      "name": "Enterprise Embedded Project",
+      "description": "Reusable engineering conventions for enterprise embedded C projects, including layered architecture, directory layout, module boundaries, coding rules, RTOS, ISR, DMA, testing, and agent implementation guidelines.",
+      "path": "marketplace/specs/embedded-project",
+      "tags": ["embedded", "c", "mcu", "rtos", "architecture"]
+    }
+  ]
+}
